@@ -1,0 +1,7 @@
+{
+  "name": "Neo Oracle Robotics Portfolio",
+  "description": "A high-end professional portfolio for an AI/Robotics engineer featuring the Maize Cob Analyzer project, technical tutorials, and a dark-mode glassmorphism UI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
